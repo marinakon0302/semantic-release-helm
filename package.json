@@ -7,7 +7,7 @@
     "index.js",
     "lib/**/*.js"
   ],
-  "repository": "https://github.com/m1pl/semantic-release-helm.git",
+  "repository": "https://github.com/marinakon0302/semantic-release-helm.git",
   "author": "Mihai Plasoianu <mihai@plasoianu.de>",
   "license": "MIT",
   "dependencies": {
